@@ -1075,3 +1075,6 @@ want about to a race conditions hear joke?
 
 ---
 
+**Q:** Why don’t cannibals eat clowns?
+
+**A:** Because they taste funny.
